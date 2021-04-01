@@ -1,3 +1,6 @@
+v2.1.0
+	* Merge Windows-compatible PR from [@curvedriver](https://github.com/curvedriver)
+	
 v2.0.1
 	* Fix windows compatibility of memwatch.cc
 	
